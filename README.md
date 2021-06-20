@@ -1,3 +1,4 @@
+
 # MechaCar Statistical Analysis
 
 
@@ -17,8 +18,24 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 ## Summary Statistics on Suspension Coils
 
+### R code for Summary Statistics
+
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+
+![suspension_coil](https://user-images.githubusercontent.com/78699521/122658632-79f41800-d124-11eb-9021-23b11505e3af.png)
+
+
+### Total Summary DataFrame
+![total_summary](https://user-images.githubusercontent.com/78699521/122658637-8e381500-d124-11eb-8617-f7bf200396be.png)
+
+
+### Lot Summary DataFrame
+![lot_summary](https://user-images.githubusercontent.com/78699521/122658642-942df600-d124-11eb-9ac8-f5504f1a0bac.png)
+
+
+
 
 
 ## T-Tests on Suspension Coils
