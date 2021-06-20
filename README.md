@@ -21,8 +21,10 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 ### R code for Summary Statistics
 
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+#### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
+
+The summary statistics for the suspension coil data show an overall mean of 1498.78 pounds per square inch(psi), a median of 1500 psi, a variance of ~62.29 psi, and a standard deviation of ~7.89 psi.  By manufacturing lot, Lot 1 has a mean of 1500.00 psi, median of 1500.0 psi, a variance of ~0.98 psi and standard deviation of ~0.99 psi; Lot 2 has a mean of 1500.20 psi, median of 1500.0 psi, a variance of ~7.47 psi, and a standard deviation of ~2.73 psi; and Lot 3 has a mean of 1496.14 psi, a median of 1498.5 psi, a variance of ~170.29 psi, and a standard deviaiton of ~13.05 psi.  Lots 1 and 2 fit the design specification stating the variance of suspension coils must not exceed 100 pounds per square with variances of ~0.98 psi and ~7.47 psi respectively. Lot 3 does not meet this design specification with a variance of ~170.29 psi, exceeding the 100 psi threshold. 
 
 ![suspension_coil](https://user-images.githubusercontent.com/78699521/122658632-79f41800-d124-11eb-9021-23b11505e3af.png)
 
