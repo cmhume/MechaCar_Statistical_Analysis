@@ -47,6 +47,26 @@ briefly summarize your interpretation and findings for the t-test results. Inclu
 
 ![ttest](https://user-images.githubusercontent.com/78699521/122689285-5be6f000-d1d6-11eb-8fb6-e75546fa5e40.png)
 
+
+![ttest1](https://user-images.githubusercontent.com/78699521/122690003-8edfb280-d1db-11eb-9a36-81818a0117e5.png)
+
+
+
+![lots](https://user-images.githubusercontent.com/78699521/122690007-94d59380-d1db-11eb-85fb-2c7a601fc85d.png)
+
+
+
+![lot_1](https://user-images.githubusercontent.com/78699521/122690010-999a4780-d1db-11eb-94bb-afe9bce9967f.png)
+
+
+
+![lot_2](https://user-images.githubusercontent.com/78699521/122690012-9dc66500-d1db-11eb-80b8-701831627a19.png)
+
+
+
+![lot_3](https://user-images.githubusercontent.com/78699521/122690017-a28b1900-d1db-11eb-9e7f-2902eb75d8fe.png)
+
+
 ## Study Design: MechaCar vs Competition
 
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
