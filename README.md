@@ -45,6 +45,7 @@ The summary statistics for the suspension coil data show an overall mean of 1498
 
 briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
+![ttest](https://user-images.githubusercontent.com/78699521/122689285-5be6f000-d1d6-11eb-8fb6-e75546fa5e40.png)
 
 ## Study Design: MechaCar vs Competition
 
