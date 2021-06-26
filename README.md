@@ -35,27 +35,31 @@ The summary statistics for the suspension coil data show an overall mean of 1498
 ## T-Tests on Suspension Coils
 
 
+### T-test comparing all manufacturing lots to the population
 Using the average psi of suspension coils from all manufacturing lots compared with the average psi of the population of suspension coils, the p-value of 0.060 shown in the t-test does not meet the normal threshold of significance of a p-value of 0.05.  This suggests differences in psi between the manufacturer and the population at large are not statistically significant for a normal significance level.  It also shows that 95% of the data are between a psi of 1497.51 and 1500.05, and the mean psi of all manufacturing lots is 1498.78
 
 
 ![ttest1](https://user-images.githubusercontent.com/78699521/122690003-8edfb280-d1db-11eb-9a36-81818a0117e5.png)
 
-
+### Filtering suspension coil data by manufacturing lot
 ![lots](https://user-images.githubusercontent.com/78699521/122690007-94d59380-d1db-11eb-85fb-2c7a601fc85d.png)
 
 
+### T-test comparing Lot 1 to the population
 Comparing average psi from manufacturing Lot 1 to the population mean of 1500 psi with a t-test reveals a p-value of 1, suggesting no significant difference between the average suspension coil psi of Lot 1 and the population at large.  The t-test also shows 95% of the data from Lot 1 was between 1499.72 and 1500.28, and the mean psi from Lot 1 was 1500, the same as the average psi of the population.
 
 
 ![lot_1](https://user-images.githubusercontent.com/78699521/122690010-999a4780-d1db-11eb-94bb-afe9bce9967f.png)
 
 
+### T-test comparing Lot 2 to the population
 The average psi from manufacturing Lot 2 compared with the population mean of 1500 psi in a t-test shows a p-value of 0.61, above the 0.05 normal significance level, suggesting the differences in psi between Lot 2 and the population are not significant and likely due to random chance.
 
 
 ![lot_2](https://user-images.githubusercontent.com/78699521/122690012-9dc66500-d1db-11eb-80b8-701831627a19.png)
 
 
+### T-test comparing Lot 3 to the population
 The t-test comparing the average psi of Lot 3 suspension coils with the mean psi of the population of suspension coils has a p-value of 0.042, a value below the 0.05 significance threshold.  This suggests the variability in the psi of Lot 3 suspension coils is statistically significant and likely due to an outside force, not random chance.  The t-test also shows the mean psi of Lot 3 suspension coils to be 1496.14, and 95% of the psi values in Lot 3 are between 1492.43 and 1499.85. 
 
 
